@@ -1,0 +1,7 @@
+﻿  BaseProyectoMain.cpp.cpp
+  ventas_detalle.cpp
+  Generando código...
+C:\Users\f3rma\OneDrive\Escritorio\MySql\BaseProyectoMain.cpp\BaseProyectoMain.cpp\Empleados.h(164): warning C4715: 'Empleados::leerId': no todas las rutas de acceso de control devuelven un valor
+C:\Users\f3rma\OneDrive\Escritorio\MySql\BaseProyectoMain.cpp\BaseProyectoMain.cpp\Productos.h(163): warning C4715: 'Productos::leerId': no todas las rutas de acceso de control devuelven un valor
+C:\Users\f3rma\OneDrive\Escritorio\MySql\BaseProyectoMain.cpp\BaseProyectoMain.cpp\ventas_detalle.h(208): warning C4715: 'Ventas_detalle::leerIdEmpleados': no todas las rutas de acceso de control devuelven un valor
+  BaseProyectoMain.cpp.vcxproj -> C:\Users\f3rma\OneDrive\Escritorio\MySql\BaseProyectoMain.cpp\x64\Debug\BaseProyectoMain.cpp.exe

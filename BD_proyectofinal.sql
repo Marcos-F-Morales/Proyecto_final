@@ -1,0 +1,1 @@
+SELECT * FROM bd_proyectofinal.venta_detalle;
